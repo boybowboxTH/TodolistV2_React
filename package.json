@@ -1,4 +1,5 @@
 {
+  
   "name": "managing-a-component-tree-practice-completed",
   "version": "1.0.0",
   "description": "",
@@ -18,6 +19,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "engines": {
+  "node": "14.x"
+},
   "browserslist": [
     ">0.2%",
     "not dead",
